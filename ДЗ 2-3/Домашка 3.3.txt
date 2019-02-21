@@ -1,0 +1,2 @@
+var rez = prompt('¬ведите число');
+alert(rez.split('').reverse().join(''));
